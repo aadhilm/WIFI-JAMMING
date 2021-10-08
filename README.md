@@ -52,6 +52,14 @@ Step 6 ==  After flashing remove nodemcu and connet to phone using OTG and data 
 
 Step 7 == open wifi you can see new wifi named as pwnd connet the password is (deauther) and open any brower type 192.168.4.1
 
+![Screenshot_2021-10-06-20-34-15-415_com android chrome st](https://user-images.githubusercontent.com/90235707/136576610-c02936cf-b8a7-4207-89ff-938ede7cdcd4.jpg)
+
+Click (I HAVE READ AND UNDERSTOOD THE NOTICE ABOVE)
+
+ATTACKING PAGE
+![Screenshot_2021-08-04-08-39-36-468_com android chrome](https://user-images.githubusercontent.com/90235707/136576566-558cbb9b-e9bc-42cf-a232-03b645decbae.jpg)
+
+
 
 
 
