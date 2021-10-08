@@ -14,7 +14,7 @@ Please don't refer to this project as "jammer" real purpose.
 
 Install the flasher (.exe) file
 
-Step 1 == connnet noduemcu ESP8266
+Step 1 == connnet noduemcu ESP8266 to pc
 
 Step 2 == After conneting the nodemcu config flasher find the COM port from device manager conform the COM port which conneted to nodemcu port
 
